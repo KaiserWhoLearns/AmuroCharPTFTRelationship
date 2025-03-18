@@ -69,5 +69,10 @@ The remaining of the code (`analysis/`, `scripts/slurm_scripts/`, `eval/predict.
 
 ## 🫶 Citation ´･ᴗ･`
 ```
-Removed for anonymity
+@article{sun2024amuro,
+  title={Amuro \& char: Analyzing the relationship between pre-training and fine-tuning of large language models},
+  author={Sun, Kaiser and Dredze, Mark},
+  journal={arXiv preprint arXiv:2408.06663},
+  year={2024}
+}
 ```
